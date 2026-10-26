@@ -3,7 +3,7 @@
 @theme { 
   /* 10-60-30 Rule*/
   --color-accent: #38bdf8;  /* Buttons, Active Icons, Glows */
-  --color-bg:     #0b1329;  /* Page & Card Backgrounds */
+  --color-brand:  #0b1329;  /* Page & Card Backgrounds */
   --color-text:   #ffffff;  /* Headlines & primary text */
 }
 
